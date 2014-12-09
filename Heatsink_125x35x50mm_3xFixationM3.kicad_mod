@@ -1,10 +1,10 @@
 (module Heatsink_125x35x50mm_3xFixationM3 (layer F.Cu) (tedit 5470C550)
   (tags "Heatsink, 125x35x50mm, 3 fixation holes 3.2mm")
-  (fp_text reference HS (at 0 -34) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+  (fp_text reference Heatsink_125x35x50mm_3xFixationM3 (at 0 -34) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Heatsink_125x35x50mm_3xFixationM3 (at 0 4) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+  (fp_text value VAL** (at 0 4) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -50.50028 -2.46126) (end -57.50052 -2.46126) (layer F.SilkS) (width 0.15))
   (fp_line (start -38.49878 -2.46126) (end -45.49902 -2.46126) (layer F.SilkS) (width 0.15))

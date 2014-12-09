@@ -2,11 +2,11 @@
   (at 0 0)
   (descr "Heatsink, 38x38mm, Spring Fixation, diagonal,")
   (tags "Heatsink, 38x38mm, Spring Fixation, diagonal, Kuehlkoerper, Federbefestigung,")
-  (fp_text reference HS (at 20.32 -30.988) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+  (fp_text reference Heatsink_38x38mm_SpringFixation (at 20.32 -30.988) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Heatsink_38x38mm_SpringFixation (at 17.272 5.08) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+  (fp_text value VAL** (at 17.272 5.08) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 38.1 -20.32) (end 43.688 -20.32) (layer F.SilkS) (width 0.15))
   (fp_line (start 43.688 -20.32) (end 43.688 6.604) (layer F.SilkS) (width 0.15))
