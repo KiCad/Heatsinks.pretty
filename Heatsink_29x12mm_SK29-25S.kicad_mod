@@ -1,7 +1,7 @@
-(module Heatsink_29x12mm_SK29-25S (layer F.Cu) (tedit 54E5106E)
-  (descr "Regulateur TO220 serie LM78xx")
-  (tags "TR TO220")
-  (fp_text reference SK29-25S (at 3.2 -2.7) (layer F.SilkS)
+(module Heatsink_29x12mm_SK29-25S (layer F.Cu) (tedit 54E51566)
+  (descr http://www.tme.eu/en/details/sk29-25s/radiators/)
+  (tags "Heatsink TO220")
+  (fp_text reference Heatsink_29x12mm_SK29-25S (at 0.5 2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value VAL** (at -3.65 -2.7 180) (layer F.SilkS) hide
